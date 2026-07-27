@@ -1,6 +1,6 @@
 # 💍 Destination Wedding Planner Agent
 
-A beginner-friendly LangChain project that combines a **multi-agent destination wedding planner** with a **human-approved client email workflow**.
+LangChain project that combines a **multi-agent destination wedding planner** with a **human-approved client email workflow**.
 
 The project follows the architecture taught in the LangChain foundation course instead of introducing a large production system. The coordinator delegates to three specialists:
 
