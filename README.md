@@ -157,11 +157,6 @@ Then include the returned style summary in the wedding-planning message.
 
 The email tool is intentionally fake. The human-in-the-loop middleware still demonstrates the real control flow: **approve, reject, or edit before execution**.
 
-## Resume bullets
-
-- Built a multi-agent destination wedding planner with LangChain and LangGraph, coordinating flight, venue, and music specialists through a remote Kiwi MCP server, Tavily web search, and SQLite.
-- Implemented dynamic prompt/tool/model middleware, custom state and runtime context, multimodal image analysis, persistent conversation memory, and human approval before client email execution.
-
 ## Good future improvements
 
 Keep version 1 simple. Later improvements could include Gmail integration, a Streamlit UI, persistent Postgres state, guest-specific flight grouping, hotel research, and LangSmith evaluation tests.
