@@ -129,7 +129,7 @@ print(summary)
 
 Then include the returned style summary in the wedding-planning message.
 
-## What the demo teaches
+## Important Concepts
 
 ### State versus context
 
