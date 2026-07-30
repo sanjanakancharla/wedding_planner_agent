@@ -49,7 +49,7 @@ flowchart TD
 
 ## Course concept map
 
-| Requested concept | Where it appears |
+| Concept | Where it appears |
 |---|---|
 | Multimodal messages | `analyze_inspiration_image()` encodes an image in Base64 and sends text + image content to an agent. |
 | MCP | `load_kiwi_flight_tools()` connects to the remote Kiwi MCP endpoint and loads flight tools. |
