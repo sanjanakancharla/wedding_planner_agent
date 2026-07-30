@@ -72,8 +72,8 @@ wedding_planner_agent/
 ├── wedding_planner.py       # Coordinator, specialists, middleware, state/context
 ├── demo.py                  # End-to-end command-line demo
 ├── data/Chinook.db          # Sample music database from the course
-├── notebooks/demo.ipynb     # Guided notebook demonstration
-├── PROJECT_WALKTHROUGH.md   # Beginner learning order and concept explanations
+├── notebooks/demo.ipynb     # notebook demonstration
+├── PROJECT_WALKTHROUGH.md   
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
