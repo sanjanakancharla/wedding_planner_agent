@@ -10,7 +10,7 @@ The coordinator delegates to three specialists:
 
 The coordinator stores the couple's wedding and travel details, combines the specialists' work, and drafts a client email. The email tool pauses for human approval before a dummy send occurs.
 
-## Project story
+## Project description
 
 A wedding planner is helping **Ava and Noah** organize a destination wedding in Cancun. Guests are traveling from Dallas. The planner logs in, supplies the destination, wedding date, travel dates, budget, guest count, and visual style, and asks the coordinator to create a plan.
 
