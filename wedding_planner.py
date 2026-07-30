@@ -1,6 +1,6 @@
 """Simple multi-agent Destination Wedding Planner built with LangChain.
 
-Course concepts demonstrated:
+ Concepts demonstrated:
 - Multimodal image messages
 - External Kiwi flight-search MCP server
 - Multi-agent supervisor pattern
