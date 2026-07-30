@@ -1,4 +1,4 @@
-"""Beginner-friendly multi-agent Destination Wedding Planner built with LangChain.
+"""Simple multi-agent Destination Wedding Planner built with LangChain.
 
 Course concepts demonstrated:
 - Multimodal image messages
