@@ -47,7 +47,7 @@ flowchart TD
     H -->|Reject/Edit| C
 ```
 
-## Course concept map
+## Concept map
 
 | Concept | Where it appears |
 |---|---|
